@@ -39,15 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersagar4u&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
-### 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/Ersagar4u/Portfolio)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
 💡 *"Code, Learn, Build, and Repeat!"* 🚀
 
