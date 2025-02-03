@@ -1,2 +1,53 @@
-# Portfolio-websites-
-A personal or professional website designed to showcase an individual’s work, skills, and accomplishments. It serves as a digital resume and portfolio, allowing potential employers, clients, or collaborators to assess the person's expertise
+### Hi there, I'm Sagar! 👋
+
+**🚀 Full-Stack Developer | MERN Stack | Java Enthusiast**  
+**🎯 Passionate about Problem-Solving & Open-Source**  
+
+---
+
+### 🔥 About Me
+- 🎓 **Computer Science Engineer (4th Year)**
+- 💻 **MERN Stack Developer** | Java | DSA Enthusiast
+- 🌱 Currently improving my **DSA skills** and working on **React.js projects**
+- 🏆 Completed a **Web Development Internship** at CodSoft (Built an E-Commerce Clothing Website)
+- ⚡ Fun fact: I love **football & Esports games!** 🎮⚽
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Java, JavaScript, Python, HTML5, CSS3  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Other Tools:** Git, GitHub, Firebase, Blockchain  
+
+---
+
+### 🚀 Featured Projects
+🔹 **[E-Commerce Clothing Website](https://github.com/Ersagar4u/E-Commerce-Website)** - Built using MERN stack. 🛒  
+🔹 **[Portfolio Website](https://github.com/Ersagar4u/Portfolio)** - Personal portfolio showcasing skills & projects. 🌍  
+🔹 **[DSA & Java Solutions](https://github.com/Ersagar4u/DSA-Java)** - A collection of problem-solving code & algorithms. 🔢  
+
+📌 Check out more on **[GitHub Repositories](https://github.com/Ersagar4u?tab=repositories)**!
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ersagar4u&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ersagar4u&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersagar4u&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/Ersagar4u/Portfolio)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+💡 *"Code, Learn, Build, and Repeat!"* 🚀
+
